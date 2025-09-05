@@ -109,7 +109,7 @@ function Section() {
               <p className="text-2xl max-md:text-xl font-inter-tight">
                 WanderLust
               </p>
-              <div className="text-lg max-md:text-md font-inter-tight flex flex-wrap items-center justify-start gap-2 flex-wrap">
+              <div className="text-lg max-md:text-md font-inter-tight flex flex-wrap items-center justify-start gap-2">
                 <span className="text-black rounded-sm p-1 px-2 bg-white flex items-center justify-center gap-1">
                   <FaNodeJs /> NodeJS
                 </span>{" "}
